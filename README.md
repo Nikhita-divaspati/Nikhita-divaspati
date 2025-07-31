@@ -43,6 +43,6 @@ A console-based calculator using Java that performs basic arithmetic operations.
 
 - Strategy Formulation and Data Visualization, IIT Madras
 - Programming with Python - A Beginner's course
-- 
+  
 
 
