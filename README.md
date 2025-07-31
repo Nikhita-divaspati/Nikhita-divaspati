@@ -21,7 +21,10 @@ A console-based calculator using Java that performs basic arithmetic operations.
 **Tools:** Java, VS Code  
 🔗 [View on GitHub](https://github.com/Nikhita-divaspati/java-calculator)
 
-*(Add more projects like this as you build them)*
+   🔹 Virtual Interaction System Using OpenCV
+   Developed a Virtual Interaction System using OpenCV that allows users to interact with on-screen elements through hand gestures and computer vision techniques.
+Tools: Python, Open CV, MediaPipe
+🔗 [View on GitHub]()
 
 ---
 
