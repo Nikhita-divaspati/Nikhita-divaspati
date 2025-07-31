@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Nikhita Divaspati Hegde
 
-<!--
-**Nikhita-divaspati/Nikhita-divaspati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent Computer Science Graduate (2025)  
+💻 Aspiring Java Developer | Python | Web Development  
+📍 Based in India | Open to remote or on-site roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+
+- Java, Python, HTML, CSS, JavaScript
+- Git & GitHub, VS Code
+- Basic MySQL, OOPs Concepts
+
+---
+
+## 💼 Projects
+
+### 🔹 Simple Java Calculator  
+A console-based calculator using Java that performs basic arithmetic operations.  
+**Tools:** Java, VS Code  
+🔗 [View on GitHub](https://github.com/Nikhita-divaspati/java-calculator)
+
+*(Add more projects like this as you build them)*
+
+---
+
+## 🧾 Resume
+
+📄 [Download My Resume](#) *(https://drive.google.com/file/d/1LwzUWfkazh59mh-d5NWo99MEK3Kk3Jyr/view?usp=drivesdk)*
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: nikhitadivaspati@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhita-hegde-b0a3a1377)  
+- 💻 [GitHub](https://github.com/Nikhita-divaspati)
+
+---
+
+## 🏅 Certifications
+
+- Strategy Formulation and Data Visualization, IIT Madras
+- Programming with Python - A Beginner's course
+- 
+
+
